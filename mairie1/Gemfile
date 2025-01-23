@@ -1,0 +1,8 @@
+# Gemfile
+source 'https://rubygems.org'
+
+gem 'nokogiri'
+gem 'open-uri'
+gem 'rspec'
+gem 'mechanize'
+gem 'webmock'
